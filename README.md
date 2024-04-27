@@ -1,7 +1,4 @@
 # mitologia-grega
-h1 {
-    text-align: center;
-}
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
