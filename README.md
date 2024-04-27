@@ -1,17 +1,4 @@
 # mitologia-grega
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mitologia Grega</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>Mitologia Grega</h1>
-    <p>aaaaaaa</p>
-    <P>kkkkkkk</P>
-
     <section class="conteudo-principal">
         <h2 class="titulo-principal">História</h2>
 <div class="botoes">
